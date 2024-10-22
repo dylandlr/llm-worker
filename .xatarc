@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://experiments-nt54hl.us-east-1.xata.sh/db/worker-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
